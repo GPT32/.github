@@ -2,7 +2,7 @@
 
 ![icon](../assets/icon.ico)
 
-Minimalistic ChatGPT client built with the Windows API.
+Minimal ChatGPT client for Windows built entirely with the Win32 API.
 
 ## Credits
 
