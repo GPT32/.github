@@ -1,0 +1,15 @@
+name: Feature request
+title: "[FEATURE] "
+description: Suggest an idea for this project
+type: feature
+assignees:
+  - lemonpole
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Please describe the feature you would to see.
+      placeholder: Please enter details.
+    validations:
+      required: true
