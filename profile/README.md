@@ -2,12 +2,23 @@
 
 Minimal ChatGPT client for Windows built entirely with the Win32 API.
 
+![screenshot](../assets/screenshot.png)
+
 > [!IMPORTANT]
 > The app doesn't have a code-signing certificate yet, so you'll see a warning when downloading or running the app.
 >
 > To run, click on `More Info` and `Run Anyway`.
 
-![screenshot](../assets/screenshot.png)
+## Features
+
+- Organize your chats into projects.
+- Set a tone or role per project.
+- Context is not lost between messages.
+
+## Useful Links
+
+- [Download latest release](https://github.com/gpt32/application/releases/latest/download/gpt32.exe)
+- [Roadmap](https://github.com/GPT32/application/milestones)
 
 ## Credits
 
