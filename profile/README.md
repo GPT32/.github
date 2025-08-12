@@ -9,17 +9,12 @@ Minimal ChatGPT client for Windows built entirely with the Win32 API.
 >
 > To run, click on `More Info` and `Run Anyway`.
 
-## Features
+# Features
 
 - Organize your chats into projects.
 - Set a tone or role per project.
 - Context is not lost between messages.
 
-## Useful Links
-
-- [Download latest release](https://github.com/gpt32/application/releases/latest/download/gpt32.exe)
-- [Roadmap](https://github.com/GPT32/application/milestones)
-
-## Credits
+# Credits
 
 Application icon provided by [Icon-Icons](https://icon-icons.com/icon/book-address-education-bookmark-business-agenda-notebook/267267).
