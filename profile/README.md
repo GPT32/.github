@@ -2,7 +2,7 @@
 
 Minimal ChatGPT client for Windows built entirely with the Win32 API.
 
-![screenshot](../assets/screenshot.png)
+![screenshot](../assets/demo.gif)
 
 > [!IMPORTANT]
 > The app doesn't have a code-signing certificate yet, so you'll see a warning when downloading or running the app.
